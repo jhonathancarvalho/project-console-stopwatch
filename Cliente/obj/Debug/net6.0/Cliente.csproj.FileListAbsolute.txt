@@ -9,3 +9,14 @@ C:\Users\Utente\Documents\CODE LEARN\SistemaJuridico\Cliente\obj\Debug\net6.0\Cl
 C:\Users\Utente\Documents\CODE LEARN\SistemaJuridico\Cliente\obj\Debug\net6.0\refint\Cliente.dll
 C:\Users\Utente\Documents\CODE LEARN\SistemaJuridico\Cliente\obj\Debug\net6.0\Cliente.pdb
 C:\Users\Utente\Documents\CODE LEARN\SistemaJuridico\Cliente\obj\Debug\net6.0\ref\Cliente.dll
+C:\CODES\SistemaJuridico\SistemaJuridico\Cliente\bin\Debug\net6.0\Cliente.deps.json
+C:\CODES\SistemaJuridico\SistemaJuridico\Cliente\bin\Debug\net6.0\Cliente.dll
+C:\CODES\SistemaJuridico\SistemaJuridico\Cliente\bin\Debug\net6.0\Cliente.pdb
+C:\CODES\SistemaJuridico\SistemaJuridico\Cliente\obj\Debug\net6.0\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODES\SistemaJuridico\SistemaJuridico\Cliente\obj\Debug\net6.0\Cliente.AssemblyInfoInputs.cache
+C:\CODES\SistemaJuridico\SistemaJuridico\Cliente\obj\Debug\net6.0\Cliente.AssemblyInfo.cs
+C:\CODES\SistemaJuridico\SistemaJuridico\Cliente\obj\Debug\net6.0\Cliente.csproj.CoreCompileInputs.cache
+C:\CODES\SistemaJuridico\SistemaJuridico\Cliente\obj\Debug\net6.0\Cliente.dll
+C:\CODES\SistemaJuridico\SistemaJuridico\Cliente\obj\Debug\net6.0\refint\Cliente.dll
+C:\CODES\SistemaJuridico\SistemaJuridico\Cliente\obj\Debug\net6.0\Cliente.pdb
+C:\CODES\SistemaJuridico\SistemaJuridico\Cliente\obj\Debug\net6.0\ref\Cliente.dll

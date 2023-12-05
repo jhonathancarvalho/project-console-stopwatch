@@ -16,3 +16,21 @@ C:\Users\Utente\Documents\CODE LEARN\SistemaJuridico\Executar\bin\Debug\net6.0\C
 C:\Users\Utente\Documents\CODE LEARN\SistemaJuridico\Executar\bin\Debug\net6.0\Cliente.pdb
 C:\Users\Utente\Documents\CODE LEARN\SistemaJuridico\Executar\obj\Debug\net6.0\Executar.csproj.AssemblyReference.cache
 C:\Users\Utente\Documents\CODE LEARN\SistemaJuridico\Executar\obj\Debug\net6.0\Executar.csproj.CopyComplete
+C:\CODES\SistemaJuridico\SistemaJuridico\Executar\bin\Debug\net6.0\Executar.exe
+C:\CODES\SistemaJuridico\SistemaJuridico\Executar\bin\Debug\net6.0\Executar.deps.json
+C:\CODES\SistemaJuridico\SistemaJuridico\Executar\bin\Debug\net6.0\Executar.runtimeconfig.json
+C:\CODES\SistemaJuridico\SistemaJuridico\Executar\bin\Debug\net6.0\Executar.dll
+C:\CODES\SistemaJuridico\SistemaJuridico\Executar\bin\Debug\net6.0\Executar.pdb
+C:\CODES\SistemaJuridico\SistemaJuridico\Executar\bin\Debug\net6.0\Cliente.dll
+C:\CODES\SistemaJuridico\SistemaJuridico\Executar\bin\Debug\net6.0\Cliente.pdb
+C:\CODES\SistemaJuridico\SistemaJuridico\Executar\obj\Debug\net6.0\Executar.csproj.AssemblyReference.cache
+C:\CODES\SistemaJuridico\SistemaJuridico\Executar\obj\Debug\net6.0\Executar.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODES\SistemaJuridico\SistemaJuridico\Executar\obj\Debug\net6.0\Executar.AssemblyInfoInputs.cache
+C:\CODES\SistemaJuridico\SistemaJuridico\Executar\obj\Debug\net6.0\Executar.AssemblyInfo.cs
+C:\CODES\SistemaJuridico\SistemaJuridico\Executar\obj\Debug\net6.0\Executar.csproj.CoreCompileInputs.cache
+C:\CODES\SistemaJuridico\SistemaJuridico\Executar\obj\Debug\net6.0\Executar.csproj.CopyComplete
+C:\CODES\SistemaJuridico\SistemaJuridico\Executar\obj\Debug\net6.0\Executar.dll
+C:\CODES\SistemaJuridico\SistemaJuridico\Executar\obj\Debug\net6.0\refint\Executar.dll
+C:\CODES\SistemaJuridico\SistemaJuridico\Executar\obj\Debug\net6.0\Executar.pdb
+C:\CODES\SistemaJuridico\SistemaJuridico\Executar\obj\Debug\net6.0\Executar.genruntimeconfig.cache
+C:\CODES\SistemaJuridico\SistemaJuridico\Executar\obj\Debug\net6.0\ref\Executar.dll
