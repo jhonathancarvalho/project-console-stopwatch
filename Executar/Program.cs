@@ -52,5 +52,3 @@ foreach (var pessoa in Pessoas)
 }
 
 Console.WriteLine(Pessoas);
-
-Console.WriteLine(minhaLista);
