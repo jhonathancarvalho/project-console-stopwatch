@@ -1,12 +1,13 @@
 ﻿using Cliente;
+using Cliente.Models;
 
 var Pessoas = new List<Pessoa>() 
 { 
-    new Pessoa() { CPF = "12030926795", Nome = "Tiago Pereira Cardoso", Nascimento = DateTime.Parse("1989-12-26") },
-    new Pessoa() { CPF = "12847566708", Nome = "Jhonathan Pereira", Nascimento = DateTime.Parse("1993-01-04") },
-    new Pessoa() { CPF = "10198942702", Nome = "Ana Luiza Cortes", Nascimento = DateTime.Parse("1984-09-09") }
+    new Pessoa() { CPF = "12030926795", Nome = "Tiago Pereira Cardoso", TicketMedio = 10, Nascimento = DateTime.Parse("1989-12-26") },
+    new Pessoa() { CPF = "12847566708", Nome = "Jhonathan Pereira", TicketMedio = 20, Nascimento = DateTime.Parse("1993-01-04") },
+    new Pessoa() { CPF = "10198942702", Nome = "Ana Luiza Cortes", TicketMedio = 30, Nascimento = DateTime.Parse("1984-09-09") }
 };
-
+ 
 var Endereco = new List<PessoaEndereco>() 
 {
     new PessoaEndereco() { CPF = "12030926795", Endereco = "Via Luigi Chiereguin", Numero = 27, Estado = "TV", Cidade = "Treviso", CEP = "31100" },
@@ -27,3 +28,14 @@ foreach (var pessoa in Pessoas)
         cnt++;
     }
 }
+var Outros = new Outros();
+
+var Euexisto = false;
+
+
+
+
+
+
+
+

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+y70LIV1XUk8+DPJRs8BdLRH351pdmXbXUxwykfb/LdS79W0LEkBdmnodgpSAbEn/HFJyx+WT399eYHt6fV0zw==",
+  "dgSpecHash": "ton0HSxLmIAmIk1ZpHRoQI5qZhBAg80O2r5ZN6IEaneLmDz1amApK2g5UUg896+EPu+ybFSHWz8LSH0j+m4IHQ==",
   "success": true,
-  "projectFilePath": "C:\\CODES\\SistemaJuridico\\SistemaJuridico\\Cliente\\Cliente.csproj",
+  "projectFilePath": "C:\\Dev\\SistemaJuridico\\Cliente\\Cliente.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

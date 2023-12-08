@@ -1,4 +1,4 @@
-﻿namespace Cliente
+﻿namespace Cliente.Models
 {
     public class PessoaEndereco
     {

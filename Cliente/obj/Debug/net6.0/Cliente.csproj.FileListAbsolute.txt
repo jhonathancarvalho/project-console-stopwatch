@@ -20,3 +20,15 @@ C:\CODES\SistemaJuridico\SistemaJuridico\Cliente\obj\Debug\net6.0\Cliente.dll
 C:\CODES\SistemaJuridico\SistemaJuridico\Cliente\obj\Debug\net6.0\refint\Cliente.dll
 C:\CODES\SistemaJuridico\SistemaJuridico\Cliente\obj\Debug\net6.0\Cliente.pdb
 C:\CODES\SistemaJuridico\SistemaJuridico\Cliente\obj\Debug\net6.0\ref\Cliente.dll
+C:\Dev\SistemaJuridico\Cliente\bin\Debug\net6.0\Cliente.deps.json
+C:\Dev\SistemaJuridico\Cliente\bin\Debug\net6.0\Cliente.dll
+C:\Dev\SistemaJuridico\Cliente\bin\Debug\net6.0\Cliente.pdb
+C:\Dev\SistemaJuridico\Cliente\obj\Debug\net6.0\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\SistemaJuridico\Cliente\obj\Debug\net6.0\Cliente.AssemblyInfoInputs.cache
+C:\Dev\SistemaJuridico\Cliente\obj\Debug\net6.0\Cliente.AssemblyInfo.cs
+C:\Dev\SistemaJuridico\Cliente\obj\Debug\net6.0\Cliente.csproj.CoreCompileInputs.cache
+C:\Dev\SistemaJuridico\Cliente\obj\Debug\net6.0\Cliente.sourcelink.json
+C:\Dev\SistemaJuridico\Cliente\obj\Debug\net6.0\Cliente.dll
+C:\Dev\SistemaJuridico\Cliente\obj\Debug\net6.0\refint\Cliente.dll
+C:\Dev\SistemaJuridico\Cliente\obj\Debug\net6.0\Cliente.pdb
+C:\Dev\SistemaJuridico\Cliente\obj\Debug\net6.0\ref\Cliente.dll
