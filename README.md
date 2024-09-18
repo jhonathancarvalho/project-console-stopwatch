@@ -1,11 +1,1 @@
-# Developer
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+### Developer
